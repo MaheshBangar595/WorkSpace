@@ -11,7 +11,7 @@ public class College {
 		s.setId(101);
 		s.setName("Mahesh");
 		s.setAddress("Pune");
-
+                System.out.println("Hi");
 		Student s1 = new Student();
 		s1.setId(102);
 		s1.setName("Hrushi");
