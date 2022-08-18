@@ -11,12 +11,12 @@ public class College {
 		s.setId(101);
 		s.setName("Mahesh");
 		s.setAddress("Pune");
-                System.out.println("Hi");
+        System.out.println("Hi");
 		Student s1 = new Student();
 		s1.setId(102);
 		s1.setName("Hrushi");
 		s1.setAddress("PCMC");
-
+		 System.out.println("Bye");
 		List<Student> listofStudent = new ArrayList<Student>();
 		listofStudent.add(s);
 		listofStudent.add(s1);
