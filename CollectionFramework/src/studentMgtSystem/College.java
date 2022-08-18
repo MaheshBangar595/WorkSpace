@@ -16,6 +16,7 @@ public class College {
 		s1.setId(102);
 		s1.setName("Hrushi");
 		s1.setAddress("PCMC");
+		
 		 System.out.println("Bye");
 		List<Student> listofStudent = new ArrayList<Student>();
 		listofStudent.add(s);
